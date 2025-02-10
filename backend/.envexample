@@ -1,0 +1,2 @@
+GROQ_API_KEY='aqui debes colocar tu propia api key'
+PORT=3001
